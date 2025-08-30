@@ -12,7 +12,7 @@ Perfect for beginners who want to learn how to visualize data with Python.
 
 ## Files included
 
-- `matplotlib_fundamentals.ipynb` → Jupyter notebook with examples
+- `matplotlib_fundamentals.ipynb` →  notebook with examples
 
 ## How to use
 
